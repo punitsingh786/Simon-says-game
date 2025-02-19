@@ -30,3 +30,7 @@ body{
 .danger{
     background-color:red ;
 }
+#start{
+    height:5px;
+    width:5px;
+}
